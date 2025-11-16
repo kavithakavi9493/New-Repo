@@ -1,3 +1,5 @@
 Hello
 Good Evening
 Checking merge conflict
+merge conflict error popped
+
