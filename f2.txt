@@ -1,6 +1,5 @@
 Hello
 Good Evening
 Checking merge conflict
-Merge conflict by Kavitha
-edit
+merge conflict error popped
 
